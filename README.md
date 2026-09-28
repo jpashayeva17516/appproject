@@ -1,4 +1,6 @@
-# ESP32 Device Registry
+# appproject
+
+## ESP32 Device Registry
 
 Отдельное приложение: регистрация ESP32-плат по регионам и сбор heartbeat
 (онлайн/оффлайн, IP, время последней связи). Не связано с `cc2` — это
